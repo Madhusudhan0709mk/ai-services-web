@@ -1,0 +1,1 @@
+export { LegalPrivacyPolicy } from "./LegalPrivacyPolicy";

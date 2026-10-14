@@ -1,0 +1,5257 @@
+.heroSection {
+  padding: 0px 30px;
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: min-content;
+  padding-top: 0px;
+  padding-right: 30px;
+  padding-bottom: 0px;
+  padding-left: 30px;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  gap: 0px;
+  row-gap: 0px;
+  column-gap: 0px;
+  place-content: center;
+}
+
+.heroSection::after {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-width: 1px;
+  border-right-width: 0px;
+  border-bottom-width: 1px;
+  border-left-width: 0px;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  border-top-color: rgb(239, 239, 239);
+  border-right-color: rgb(239, 239, 239);
+  border-bottom-color: rgb(239, 239, 239);
+  border-left-color: rgb(239, 239, 239);
+  border-top-left-radius: inherit;
+  border-top-right-radius: inherit;
+  border-bottom-left-radius: inherit;
+  border-bottom-right-radius: inherit;
+  opacity: 1;
+  pointer-events: none;
+  display: block;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  overflow-x: visible;
+  overflow-y: visible;
+  visibility: visible;
+  content-visibility: visible;
+  caret-color: rgb(0, 0, 0);
+  flex-direction: row;
+  flex-wrap: nowrap;
+  order: 0;
+  color: rgb(0, 0, 0);
+  font-family: sans-serif;
+  font-weight: 400;
+  text-align: start;
+  text-decoration-color: rgb(0, 0, 0);
+  text-decoration-style: solid;
+  text-overflow: clip;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-fill-color: rgb(0, 0, 0);
+  -webkit-text-stroke-color: rgb(0, 0, 0);
+  -webkit-box-orient: horizontal;
+  background-repeat: repeat;
+  background-clip: border-box;
+  -webkit-background-clip: border-box;
+  outline-color: rgb(0, 0, 0);
+  object-fit: fill;
+  transition-property: all;
+  transition-timing-function: ease;
+  animation-timing-function: ease;
+  animation-iteration-count: 1;
+  animation-play-state: running;
+  mask-mode: match-source;
+  mask-repeat: repeat;
+  mask-origin: border-box;
+  mask-clip: border-box;
+  mask-composite: add;
+  -webkit-mask-repeat: repeat;
+  -webkit-mask-origin: border-box;
+  -webkit-mask-clip: border-box;
+  -webkit-mask-composite: add;
+  clip-rule: nonzero;
+  transform-style: flat;
+  backface-visibility: visible;
+  list-style-type: disc;
+  list-style-position: outside;
+  content: "";
+}
+
+.p1InformationWe2 {
+  padding: 100px 30px;
+  display: flex;
+  position: relative;
+  width: 1px;
+  height: min-content;
+  max-width: 1224px;
+  padding-top: 100px;
+  padding-right: 30px;
+  padding-bottom: 100px;
+  padding-left: 30px;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 0px;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  gap: 10px;
+  row-gap: 10px;
+  column-gap: 10px;
+  place-content: center;
+}
+
+.p1InformationWe2::after {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-width: 0px;
+  border-right-width: 1px;
+  border-bottom-width: 0px;
+  border-left-width: 1px;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  border-top-color: rgb(239, 239, 239);
+  border-right-color: rgb(239, 239, 239);
+  border-bottom-color: rgb(239, 239, 239);
+  border-left-color: rgb(239, 239, 239);
+  border-top-left-radius: inherit;
+  border-top-right-radius: inherit;
+  border-bottom-left-radius: inherit;
+  border-bottom-right-radius: inherit;
+  opacity: 1;
+  pointer-events: none;
+  display: block;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  overflow-x: visible;
+  overflow-y: visible;
+  visibility: visible;
+  content-visibility: visible;
+  caret-color: rgb(0, 0, 0);
+  flex-direction: row;
+  flex-wrap: nowrap;
+  order: 0;
+  color: rgb(0, 0, 0);
+  font-family: sans-serif;
+  font-weight: 400;
+  text-align: start;
+  text-decoration-color: rgb(0, 0, 0);
+  text-decoration-style: solid;
+  text-overflow: clip;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-fill-color: rgb(0, 0, 0);
+  -webkit-text-stroke-color: rgb(0, 0, 0);
+  -webkit-box-orient: horizontal;
+  background-repeat: repeat;
+  background-clip: border-box;
+  -webkit-background-clip: border-box;
+  outline-color: rgb(0, 0, 0);
+  object-fit: fill;
+  transition-property: all;
+  transition-timing-function: ease;
+  animation-timing-function: ease;
+  animation-iteration-count: 1;
+  animation-play-state: running;
+  mask-mode: match-source;
+  mask-repeat: repeat;
+  mask-origin: border-box;
+  mask-clip: border-box;
+  mask-composite: add;
+  -webkit-mask-repeat: repeat;
+  -webkit-mask-origin: border-box;
+  -webkit-mask-clip: border-box;
+  -webkit-mask-composite: add;
+  clip-rule: nonzero;
+  transform-style: flat;
+  backface-visibility: visible;
+  list-style-type: disc;
+  list-style-position: outside;
+  content: "";
+}
+
+.p1InformationWe3 {
+  padding: 0px;
+  display: flex;
+  position: relative;
+  width: 1px;
+  height: min-content;
+  max-width: 837px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  z-index: 3;
+  flex-direction: column;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 0px;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  gap: 64px;
+  row-gap: 64px;
+  column-gap: 64px;
+  place-content: center;
+}
+
+.sectionTittle {
+  padding: 0px;
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: min-content;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  flex-direction: column;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: center;
+  gap: 16px;
+  row-gap: 16px;
+  column-gap: 16px;
+  place-content: center flex-start;
+}
+
+.privacy {
+  display: contents;
+}
+
+.termsConditions {
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: auto;
+  flex-direction: column;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: center;
+  place-content: normal center;
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  outline-width: initial;
+  transform: none;
+}
+
+.h1 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(26, 26, 26);
+  color: rgb(26, 26, 26);
+  font-family: "Space Grotesk", "Space Grotesk Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 64px;
+  font-weight: 500;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.02em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.05em;
+  text-align: center;
+  text-decoration-color: rgb(26, 26, 26);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(26, 26, 26);
+  -webkit-text-stroke-color: rgb(26, 26, 26);
+  border-top-color: rgb(26, 26, 26);
+  border-right-color: rgb(26, 26, 26);
+  border-bottom-color: rgb(26, 26, 26);
+  border-left-color: rgb(26, 26, 26);
+  outline-color: rgb(26, 26, 26);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.privacy2 {
+  display: inline-block;
+  caret-color: rgb(26, 26, 26);
+  text-decoration-color: rgb(26, 26, 26);
+  -webkit-text-stroke-color: rgb(26, 26, 26);
+  border-top-color: rgb(26, 26, 26);
+  border-right-color: rgb(26, 26, 26);
+  border-bottom-color: rgb(26, 26, 26);
+  border-left-color: rgb(26, 26, 26);
+  outline-color: rgb(26, 26, 26);
+  transform: none;
+  filter: blur(0px);
+}
+
+.policy {
+  display: inline-block;
+  caret-color: rgb(26, 26, 26);
+  text-decoration-color: rgb(26, 26, 26);
+  -webkit-text-stroke-color: rgb(26, 26, 26);
+  border-top-color: rgb(26, 26, 26);
+  border-right-color: rgb(26, 26, 26);
+  border-bottom-color: rgb(26, 26, 26);
+  border-left-color: rgb(26, 26, 26);
+  outline-color: rgb(26, 26, 26);
+  transform: none;
+  filter: blur(0px);
+}
+
+.lastUpdatedMay {
+  display: contents;
+}
+
+.lastUpdated06May2024 {
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: auto;
+  flex-direction: column;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: flex-start;
+  place-content: normal flex-start;
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  outline-width: initial;
+  transform: none;
+}
+
+.lastUpdatedMay2 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(30, 13, 1);
+  color: rgb(30, 13, 1);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  font-weight: 500;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.2em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-align: center;
+  text-decoration-color: rgb(30, 13, 1);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(30, 13, 1);
+  -webkit-text-stroke-color: rgb(30, 13, 1);
+  border-top-color: rgb(30, 13, 1);
+  border-right-color: rgb(30, 13, 1);
+  border-bottom-color: rgb(30, 13, 1);
+  border-left-color: rgb(30, 13, 1);
+  outline-color: rgb(30, 13, 1);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.p1InformationWe4 {
+  display: contents;
+}
+
+.acceptanceOfTerms {
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: auto;
+  flex-direction: column;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: center;
+  place-content: normal center;
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  outline-width: initial;
+  transform: none;
+}
+
+.atAoutiveWe {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.p10 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.br {
+  caret-color: rgb(115, 115, 115);
+  text-decoration-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+}
+
+.h4 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(26, 26, 26);
+  color: rgb(26, 26, 26);
+  font-family: Geist, "Geist Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 28px;
+  font-weight: 500;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.4em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.04em;
+  text-decoration-color: rgb(26, 26, 26);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(26, 26, 26);
+  -webkit-text-stroke-color: rgb(26, 26, 26);
+  border-top-color: rgb(26, 26, 26);
+  border-right-color: rgb(26, 26, 26);
+  border-bottom-color: rgb(26, 26, 26);
+  border-left-color: rgb(26, 26, 26);
+  outline-color: rgb(26, 26, 26);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.weMayCollect {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.nameAndContactList {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  position: relative;
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.nameAndContactItem {
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+  list-style-type: none;
+}
+
+.nameAndContactItem::before {
+  position: absolute;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  border-left-width: 0px;
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  opacity: 1;
+  display: block;
+  box-sizing: content-box;
+  overflow-x: visible;
+  overflow-y: visible;
+  visibility: visible;
+  content-visibility: visible;
+  caret-color: rgb(115, 115, 115);
+  flex-direction: row;
+  flex-wrap: nowrap;
+  order: 0;
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-weight: 400;
+  text-align: start;
+  text-decoration-color: rgb(115, 115, 115);
+  text-decoration-style: solid;
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  text-overflow: clip;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  -webkit-box-orient: horizontal;
+  background-repeat: repeat;
+  background-clip: border-box;
+  -webkit-background-clip: border-box;
+  outline-color: rgb(115, 115, 115);
+  object-fit: fill;
+  transition-property: all;
+  transition-timing-function: ease;
+  animation-timing-function: ease;
+  animation-iteration-count: 1;
+  animation-play-state: running;
+  mask-mode: match-source;
+  mask-repeat: repeat;
+  mask-origin: border-box;
+  mask-clip: border-box;
+  mask-composite: add;
+  -webkit-mask-repeat: repeat;
+  -webkit-mask-origin: border-box;
+  -webkit-mask-clip: border-box;
+  -webkit-mask-composite: add;
+  clip-rule: nonzero;
+  transform-style: flat;
+  backface-visibility: visible;
+  list-style-position: outside;
+  content: "•";
+}
+
+.nameAndContact {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+  list-style-type: none;
+}
+
+.emailAddressItem {
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+  list-style-type: none;
+}
+
+.emailAddressItem::before {
+  position: absolute;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  border-left-width: 0px;
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  opacity: 1;
+  display: block;
+  box-sizing: content-box;
+  overflow-x: visible;
+  overflow-y: visible;
+  visibility: visible;
+  content-visibility: visible;
+  caret-color: rgb(115, 115, 115);
+  flex-direction: row;
+  flex-wrap: nowrap;
+  order: 0;
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-weight: 400;
+  text-align: start;
+  text-decoration-color: rgb(115, 115, 115);
+  text-decoration-style: solid;
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  text-overflow: clip;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  -webkit-box-orient: horizontal;
+  background-repeat: repeat;
+  background-clip: border-box;
+  -webkit-background-clip: border-box;
+  outline-color: rgb(115, 115, 115);
+  object-fit: fill;
+  transition-property: all;
+  transition-timing-function: ease;
+  animation-timing-function: ease;
+  animation-iteration-count: 1;
+  animation-play-state: running;
+  mask-mode: match-source;
+  mask-repeat: repeat;
+  mask-origin: border-box;
+  mask-clip: border-box;
+  mask-composite: add;
+  -webkit-mask-repeat: repeat;
+  -webkit-mask-origin: border-box;
+  -webkit-mask-clip: border-box;
+  -webkit-mask-composite: add;
+  clip-rule: nonzero;
+  transform-style: flat;
+  backface-visibility: visible;
+  list-style-position: outside;
+  content: "•";
+}
+
+.emailAddress {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+  list-style-type: none;
+}
+
+.accountOrProfileItem {
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+  list-style-type: none;
+}
+
+.accountOrProfileItem::before {
+  position: absolute;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  border-left-width: 0px;
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  opacity: 1;
+  display: block;
+  box-sizing: content-box;
+  overflow-x: visible;
+  overflow-y: visible;
+  visibility: visible;
+  content-visibility: visible;
+  caret-color: rgb(115, 115, 115);
+  flex-direction: row;
+  flex-wrap: nowrap;
+  order: 0;
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-weight: 400;
+  text-align: start;
+  text-decoration-color: rgb(115, 115, 115);
+  text-decoration-style: solid;
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  text-overflow: clip;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  -webkit-box-orient: horizontal;
+  background-repeat: repeat;
+  background-clip: border-box;
+  -webkit-background-clip: border-box;
+  outline-color: rgb(115, 115, 115);
+  object-fit: fill;
+  transition-property: all;
+  transition-timing-function: ease;
+  animation-timing-function: ease;
+  animation-iteration-count: 1;
+  animation-play-state: running;
+  mask-mode: match-source;
+  mask-repeat: repeat;
+  mask-origin: border-box;
+  mask-clip: border-box;
+  mask-composite: add;
+  -webkit-mask-repeat: repeat;
+  -webkit-mask-origin: border-box;
+  -webkit-mask-clip: border-box;
+  -webkit-mask-composite: add;
+  clip-rule: nonzero;
+  transform-style: flat;
+  backface-visibility: visible;
+  list-style-position: outside;
+  content: "•";
+}
+
+.accountOrProfile {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+  list-style-type: none;
+}
+
+.informationSubmittedThroughItem {
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+  list-style-type: none;
+}
+
+.informationSubmittedThroughItem::before {
+  position: absolute;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  border-left-width: 0px;
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  opacity: 1;
+  display: block;
+  box-sizing: content-box;
+  overflow-x: visible;
+  overflow-y: visible;
+  visibility: visible;
+  content-visibility: visible;
+  caret-color: rgb(115, 115, 115);
+  flex-direction: row;
+  flex-wrap: nowrap;
+  order: 0;
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-weight: 400;
+  text-align: start;
+  text-decoration-color: rgb(115, 115, 115);
+  text-decoration-style: solid;
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  text-overflow: clip;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  -webkit-box-orient: horizontal;
+  background-repeat: repeat;
+  background-clip: border-box;
+  -webkit-background-clip: border-box;
+  outline-color: rgb(115, 115, 115);
+  object-fit: fill;
+  transition-property: all;
+  transition-timing-function: ease;
+  animation-timing-function: ease;
+  animation-iteration-count: 1;
+  animation-play-state: running;
+  mask-mode: match-source;
+  mask-repeat: repeat;
+  mask-origin: border-box;
+  mask-clip: border-box;
+  mask-composite: add;
+  -webkit-mask-repeat: repeat;
+  -webkit-mask-origin: border-box;
+  -webkit-mask-clip: border-box;
+  -webkit-mask-composite: add;
+  clip-rule: nonzero;
+  transform-style: flat;
+  backface-visibility: visible;
+  list-style-position: outside;
+  content: "•";
+}
+
+.informationSubmittedThrough {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+  list-style-type: none;
+}
+
+.paymentAndBillingItem {
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+  list-style-type: none;
+}
+
+.paymentAndBillingItem::before {
+  position: absolute;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  border-left-width: 0px;
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  opacity: 1;
+  display: block;
+  box-sizing: content-box;
+  overflow-x: visible;
+  overflow-y: visible;
+  visibility: visible;
+  content-visibility: visible;
+  caret-color: rgb(115, 115, 115);
+  flex-direction: row;
+  flex-wrap: nowrap;
+  order: 0;
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-weight: 400;
+  text-align: start;
+  text-decoration-color: rgb(115, 115, 115);
+  text-decoration-style: solid;
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  text-overflow: clip;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  -webkit-box-orient: horizontal;
+  background-repeat: repeat;
+  background-clip: border-box;
+  -webkit-background-clip: border-box;
+  outline-color: rgb(115, 115, 115);
+  object-fit: fill;
+  transition-property: all;
+  transition-timing-function: ease;
+  animation-timing-function: ease;
+  animation-iteration-count: 1;
+  animation-play-state: running;
+  mask-mode: match-source;
+  mask-repeat: repeat;
+  mask-origin: border-box;
+  mask-clip: border-box;
+  mask-composite: add;
+  -webkit-mask-repeat: repeat;
+  -webkit-mask-origin: border-box;
+  -webkit-mask-clip: border-box;
+  -webkit-mask-composite: add;
+  clip-rule: nonzero;
+  transform-style: flat;
+  backface-visibility: visible;
+  list-style-position: outside;
+  content: "•";
+}
+
+.paymentAndBilling {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+  list-style-type: none;
+}
+
+.communicationsAndSupportItem {
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+  list-style-type: none;
+}
+
+.communicationsAndSupportItem::before {
+  position: absolute;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  border-left-width: 0px;
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  opacity: 1;
+  display: block;
+  box-sizing: content-box;
+  overflow-x: visible;
+  overflow-y: visible;
+  visibility: visible;
+  content-visibility: visible;
+  caret-color: rgb(115, 115, 115);
+  flex-direction: row;
+  flex-wrap: nowrap;
+  order: 0;
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-weight: 400;
+  text-align: start;
+  text-decoration-color: rgb(115, 115, 115);
+  text-decoration-style: solid;
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  text-overflow: clip;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  -webkit-box-orient: horizontal;
+  background-repeat: repeat;
+  background-clip: border-box;
+  -webkit-background-clip: border-box;
+  outline-color: rgb(115, 115, 115);
+  object-fit: fill;
+  transition-property: all;
+  transition-timing-function: ease;
+  animation-timing-function: ease;
+  animation-iteration-count: 1;
+  animation-play-state: running;
+  mask-mode: match-source;
+  mask-repeat: repeat;
+  mask-origin: border-box;
+  mask-clip: border-box;
+  mask-composite: add;
+  -webkit-mask-repeat: repeat;
+  -webkit-mask-origin: border-box;
+  -webkit-mask-clip: border-box;
+  -webkit-mask-composite: add;
+  clip-rule: nonzero;
+  transform-style: flat;
+  backface-visibility: visible;
+  list-style-position: outside;
+  content: "•";
+}
+
+.communicationsAndSupport {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+  list-style-type: none;
+}
+
+.weMayAlso {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.p19 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.br2 {
+  caret-color: rgb(115, 115, 115);
+  text-decoration-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+}
+
+.h42 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(26, 26, 26);
+  color: rgb(26, 26, 26);
+  font-family: Geist, "Geist Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 28px;
+  font-weight: 500;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.4em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.04em;
+  text-decoration-color: rgb(26, 26, 26);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(26, 26, 26);
+  -webkit-text-stroke-color: rgb(26, 26, 26);
+  border-top-color: rgb(26, 26, 26);
+  border-right-color: rgb(26, 26, 26);
+  border-bottom-color: rgb(26, 26, 26);
+  border-left-color: rgb(26, 26, 26);
+  outline-color: rgb(26, 26, 26);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.weUseCollected {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.provideAndMaintainList {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  position: relative;
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.provideAndMaintainItem {
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+  list-style-type: none;
+}
+
+.provideAndMaintainItem::before {
+  position: absolute;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  border-left-width: 0px;
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  opacity: 1;
+  display: block;
+  box-sizing: content-box;
+  overflow-x: visible;
+  overflow-y: visible;
+  visibility: visible;
+  content-visibility: visible;
+  caret-color: rgb(115, 115, 115);
+  flex-direction: row;
+  flex-wrap: nowrap;
+  order: 0;
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-weight: 400;
+  text-align: start;
+  text-decoration-color: rgb(115, 115, 115);
+  text-decoration-style: solid;
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  text-overflow: clip;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  -webkit-box-orient: horizontal;
+  background-repeat: repeat;
+  background-clip: border-box;
+  -webkit-background-clip: border-box;
+  outline-color: rgb(115, 115, 115);
+  object-fit: fill;
+  transition-property: all;
+  transition-timing-function: ease;
+  animation-timing-function: ease;
+  animation-iteration-count: 1;
+  animation-play-state: running;
+  mask-mode: match-source;
+  mask-repeat: repeat;
+  mask-origin: border-box;
+  mask-clip: border-box;
+  mask-composite: add;
+  -webkit-mask-repeat: repeat;
+  -webkit-mask-origin: border-box;
+  -webkit-mask-clip: border-box;
+  -webkit-mask-composite: add;
+  clip-rule: nonzero;
+  transform-style: flat;
+  backface-visibility: visible;
+  list-style-position: outside;
+  content: "•";
+}
+
+.provideAndMaintain {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+  list-style-type: none;
+}
+
+.createAndManageItem {
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+  list-style-type: none;
+}
+
+.createAndManageItem::before {
+  position: absolute;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  border-left-width: 0px;
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  opacity: 1;
+  display: block;
+  box-sizing: content-box;
+  overflow-x: visible;
+  overflow-y: visible;
+  visibility: visible;
+  content-visibility: visible;
+  caret-color: rgb(115, 115, 115);
+  flex-direction: row;
+  flex-wrap: nowrap;
+  order: 0;
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-weight: 400;
+  text-align: start;
+  text-decoration-color: rgb(115, 115, 115);
+  text-decoration-style: solid;
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  text-overflow: clip;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  -webkit-box-orient: horizontal;
+  background-repeat: repeat;
+  background-clip: border-box;
+  -webkit-background-clip: border-box;
+  outline-color: rgb(115, 115, 115);
+  object-fit: fill;
+  transition-property: all;
+  transition-timing-function: ease;
+  animation-timing-function: ease;
+  animation-iteration-count: 1;
+  animation-play-state: running;
+  mask-mode: match-source;
+  mask-repeat: repeat;
+  mask-origin: border-box;
+  mask-clip: border-box;
+  mask-composite: add;
+  -webkit-mask-repeat: repeat;
+  -webkit-mask-origin: border-box;
+  -webkit-mask-clip: border-box;
+  -webkit-mask-composite: add;
+  clip-rule: nonzero;
+  transform-style: flat;
+  backface-visibility: visible;
+  list-style-position: outside;
+  content: "•";
+}
+
+.createAndManage {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+  list-style-type: none;
+}
+
+.respondToInquiriesItem {
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+  list-style-type: none;
+}
+
+.respondToInquiriesItem::before {
+  position: absolute;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  border-left-width: 0px;
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  opacity: 1;
+  display: block;
+  box-sizing: content-box;
+  overflow-x: visible;
+  overflow-y: visible;
+  visibility: visible;
+  content-visibility: visible;
+  caret-color: rgb(115, 115, 115);
+  flex-direction: row;
+  flex-wrap: nowrap;
+  order: 0;
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-weight: 400;
+  text-align: start;
+  text-decoration-color: rgb(115, 115, 115);
+  text-decoration-style: solid;
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  text-overflow: clip;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  -webkit-box-orient: horizontal;
+  background-repeat: repeat;
+  background-clip: border-box;
+  -webkit-background-clip: border-box;
+  outline-color: rgb(115, 115, 115);
+  object-fit: fill;
+  transition-property: all;
+  transition-timing-function: ease;
+  animation-timing-function: ease;
+  animation-iteration-count: 1;
+  animation-play-state: running;
+  mask-mode: match-source;
+  mask-repeat: repeat;
+  mask-origin: border-box;
+  mask-clip: border-box;
+  mask-composite: add;
+  -webkit-mask-repeat: repeat;
+  -webkit-mask-origin: border-box;
+  -webkit-mask-clip: border-box;
+  -webkit-mask-composite: add;
+  clip-rule: nonzero;
+  transform-style: flat;
+  backface-visibility: visible;
+  list-style-position: outside;
+  content: "•";
+}
+
+.respondToInquiries {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+  list-style-type: none;
+}
+
+.improveOurWebsiteItem {
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+  list-style-type: none;
+}
+
+.improveOurWebsiteItem::before {
+  position: absolute;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  border-left-width: 0px;
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  opacity: 1;
+  display: block;
+  box-sizing: content-box;
+  overflow-x: visible;
+  overflow-y: visible;
+  visibility: visible;
+  content-visibility: visible;
+  caret-color: rgb(115, 115, 115);
+  flex-direction: row;
+  flex-wrap: nowrap;
+  order: 0;
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-weight: 400;
+  text-align: start;
+  text-decoration-color: rgb(115, 115, 115);
+  text-decoration-style: solid;
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  text-overflow: clip;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  -webkit-box-orient: horizontal;
+  background-repeat: repeat;
+  background-clip: border-box;
+  -webkit-background-clip: border-box;
+  outline-color: rgb(115, 115, 115);
+  object-fit: fill;
+  transition-property: all;
+  transition-timing-function: ease;
+  animation-timing-function: ease;
+  animation-iteration-count: 1;
+  animation-play-state: running;
+  mask-mode: match-source;
+  mask-repeat: repeat;
+  mask-origin: border-box;
+  mask-clip: border-box;
+  mask-composite: add;
+  -webkit-mask-repeat: repeat;
+  -webkit-mask-origin: border-box;
+  -webkit-mask-clip: border-box;
+  -webkit-mask-composite: add;
+  clip-rule: nonzero;
+  transform-style: flat;
+  backface-visibility: visible;
+  list-style-position: outside;
+  content: "•";
+}
+
+.improveOurWebsite {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+  list-style-type: none;
+}
+
+.processTransactionsWhenItem {
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+  list-style-type: none;
+}
+
+.processTransactionsWhenItem::before {
+  position: absolute;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  border-left-width: 0px;
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  opacity: 1;
+  display: block;
+  box-sizing: content-box;
+  overflow-x: visible;
+  overflow-y: visible;
+  visibility: visible;
+  content-visibility: visible;
+  caret-color: rgb(115, 115, 115);
+  flex-direction: row;
+  flex-wrap: nowrap;
+  order: 0;
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-weight: 400;
+  text-align: start;
+  text-decoration-color: rgb(115, 115, 115);
+  text-decoration-style: solid;
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  text-overflow: clip;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  -webkit-box-orient: horizontal;
+  background-repeat: repeat;
+  background-clip: border-box;
+  -webkit-background-clip: border-box;
+  outline-color: rgb(115, 115, 115);
+  object-fit: fill;
+  transition-property: all;
+  transition-timing-function: ease;
+  animation-timing-function: ease;
+  animation-iteration-count: 1;
+  animation-play-state: running;
+  mask-mode: match-source;
+  mask-repeat: repeat;
+  mask-origin: border-box;
+  mask-clip: border-box;
+  mask-composite: add;
+  -webkit-mask-repeat: repeat;
+  -webkit-mask-origin: border-box;
+  -webkit-mask-clip: border-box;
+  -webkit-mask-composite: add;
+  clip-rule: nonzero;
+  transform-style: flat;
+  backface-visibility: visible;
+  list-style-position: outside;
+  content: "•";
+}
+
+.processTransactionsWhen {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+  list-style-type: none;
+}
+
+.sendImportantServiceItem {
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+  list-style-type: none;
+}
+
+.sendImportantServiceItem::before {
+  position: absolute;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  border-left-width: 0px;
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  opacity: 1;
+  display: block;
+  box-sizing: content-box;
+  overflow-x: visible;
+  overflow-y: visible;
+  visibility: visible;
+  content-visibility: visible;
+  caret-color: rgb(115, 115, 115);
+  flex-direction: row;
+  flex-wrap: nowrap;
+  order: 0;
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-weight: 400;
+  text-align: start;
+  text-decoration-color: rgb(115, 115, 115);
+  text-decoration-style: solid;
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  text-overflow: clip;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  -webkit-box-orient: horizontal;
+  background-repeat: repeat;
+  background-clip: border-box;
+  -webkit-background-clip: border-box;
+  outline-color: rgb(115, 115, 115);
+  object-fit: fill;
+  transition-property: all;
+  transition-timing-function: ease;
+  animation-timing-function: ease;
+  animation-iteration-count: 1;
+  animation-play-state: running;
+  mask-mode: match-source;
+  mask-repeat: repeat;
+  mask-origin: border-box;
+  mask-clip: border-box;
+  mask-composite: add;
+  -webkit-mask-repeat: repeat;
+  -webkit-mask-origin: border-box;
+  -webkit-mask-clip: border-box;
+  -webkit-mask-composite: add;
+  clip-rule: nonzero;
+  transform-style: flat;
+  backface-visibility: visible;
+  list-style-position: outside;
+  content: "•";
+}
+
+.sendImportantService {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+  list-style-type: none;
+}
+
+.detectAndPreventItem {
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+  list-style-type: none;
+}
+
+.detectAndPreventItem::before {
+  position: absolute;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  border-left-width: 0px;
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  opacity: 1;
+  display: block;
+  box-sizing: content-box;
+  overflow-x: visible;
+  overflow-y: visible;
+  visibility: visible;
+  content-visibility: visible;
+  caret-color: rgb(115, 115, 115);
+  flex-direction: row;
+  flex-wrap: nowrap;
+  order: 0;
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-weight: 400;
+  text-align: start;
+  text-decoration-color: rgb(115, 115, 115);
+  text-decoration-style: solid;
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  text-overflow: clip;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  -webkit-box-orient: horizontal;
+  background-repeat: repeat;
+  background-clip: border-box;
+  -webkit-background-clip: border-box;
+  outline-color: rgb(115, 115, 115);
+  object-fit: fill;
+  transition-property: all;
+  transition-timing-function: ease;
+  animation-timing-function: ease;
+  animation-iteration-count: 1;
+  animation-play-state: running;
+  mask-mode: match-source;
+  mask-repeat: repeat;
+  mask-origin: border-box;
+  mask-clip: border-box;
+  mask-composite: add;
+  -webkit-mask-repeat: repeat;
+  -webkit-mask-origin: border-box;
+  -webkit-mask-clip: border-box;
+  -webkit-mask-composite: add;
+  clip-rule: nonzero;
+  transform-style: flat;
+  backface-visibility: visible;
+  list-style-position: outside;
+  content: "•";
+}
+
+.detectAndPrevent {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+  list-style-type: none;
+}
+
+.complyWithApplicableItem {
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+  list-style-type: none;
+}
+
+.complyWithApplicableItem::before {
+  position: absolute;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  border-left-width: 0px;
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  opacity: 1;
+  display: block;
+  box-sizing: content-box;
+  overflow-x: visible;
+  overflow-y: visible;
+  visibility: visible;
+  content-visibility: visible;
+  caret-color: rgb(115, 115, 115);
+  flex-direction: row;
+  flex-wrap: nowrap;
+  order: 0;
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-weight: 400;
+  text-align: start;
+  text-decoration-color: rgb(115, 115, 115);
+  text-decoration-style: solid;
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  text-overflow: clip;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  -webkit-box-orient: horizontal;
+  background-repeat: repeat;
+  background-clip: border-box;
+  -webkit-background-clip: border-box;
+  outline-color: rgb(115, 115, 115);
+  object-fit: fill;
+  transition-property: all;
+  transition-timing-function: ease;
+  animation-timing-function: ease;
+  animation-iteration-count: 1;
+  animation-play-state: running;
+  mask-mode: match-source;
+  mask-repeat: repeat;
+  mask-origin: border-box;
+  mask-clip: border-box;
+  mask-composite: add;
+  -webkit-mask-repeat: repeat;
+  -webkit-mask-origin: border-box;
+  -webkit-mask-clip: border-box;
+  -webkit-mask-composite: add;
+  clip-rule: nonzero;
+  transform-style: flat;
+  backface-visibility: visible;
+  list-style-position: outside;
+  content: "•";
+}
+
+.complyWithApplicable {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+  list-style-type: none;
+}
+
+.p29 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+  list-style-type: none;
+}
+
+.br3 {
+  caret-color: rgb(115, 115, 115);
+  text-decoration-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  list-style-type: none;
+}
+
+.h43 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(26, 26, 26);
+  color: rgb(26, 26, 26);
+  font-family: Geist, "Geist Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 28px;
+  font-weight: 500;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.4em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.04em;
+  text-decoration-color: rgb(26, 26, 26);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(26, 26, 26);
+  -webkit-text-stroke-color: rgb(26, 26, 26);
+  border-top-color: rgb(26, 26, 26);
+  border-right-color: rgb(26, 26, 26);
+  border-bottom-color: rgb(26, 26, 26);
+  border-left-color: rgb(26, 26, 26);
+  outline-color: rgb(26, 26, 26);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.aoutiveMayUse {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.youCanControl {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.p32 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.br4 {
+  caret-color: rgb(115, 115, 115);
+  text-decoration-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+}
+
+.h44 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(26, 26, 26);
+  color: rgb(26, 26, 26);
+  font-family: Geist, "Geist Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 28px;
+  font-weight: 500;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.4em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.04em;
+  text-decoration-color: rgb(26, 26, 26);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(26, 26, 26);
+  -webkit-text-stroke-color: rgb(26, 26, 26);
+  border-top-color: rgb(26, 26, 26);
+  border-right-color: rgb(26, 26, 26);
+  border-bottom-color: rgb(26, 26, 26);
+  border-left-color: rgb(26, 26, 26);
+  outline-color: rgb(26, 26, 26);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.weDoNot {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.weMayShare {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.weMayAlso2 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.p36 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.br5 {
+  caret-color: rgb(115, 115, 115);
+  text-decoration-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+}
+
+.h45 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(26, 26, 26);
+  color: rgb(26, 26, 26);
+  font-family: Geist, "Geist Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 28px;
+  font-weight: 500;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.4em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.04em;
+  text-decoration-color: rgb(26, 26, 26);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(26, 26, 26);
+  -webkit-text-stroke-color: rgb(26, 26, 26);
+  border-top-color: rgb(26, 26, 26);
+  border-right-color: rgb(26, 26, 26);
+  border-bottom-color: rgb(26, 26, 26);
+  border-left-color: rgb(26, 26, 26);
+  outline-color: rgb(26, 26, 26);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.weTakeReasonable {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.howeverNoOnline {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.p39 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.br6 {
+  caret-color: rgb(115, 115, 115);
+  text-decoration-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+}
+
+.h46 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(26, 26, 26);
+  color: rgb(26, 26, 26);
+  font-family: Geist, "Geist Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 28px;
+  font-weight: 500;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.4em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.04em;
+  text-decoration-color: rgb(26, 26, 26);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(26, 26, 26);
+  -webkit-text-stroke-color: rgb(26, 26, 26);
+  border-top-color: rgb(26, 26, 26);
+  border-right-color: rgb(26, 26, 26);
+  border-bottom-color: rgb(26, 26, 26);
+  border-left-color: rgb(26, 26, 26);
+  outline-color: rgb(26, 26, 26);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.weRetainPersonal {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.p41 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.br7 {
+  caret-color: rgb(115, 115, 115);
+  text-decoration-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+}
+
+.h47 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(26, 26, 26);
+  color: rgb(26, 26, 26);
+  font-family: Geist, "Geist Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 28px;
+  font-weight: 500;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.4em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.04em;
+  text-decoration-color: rgb(26, 26, 26);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(26, 26, 26);
+  -webkit-text-stroke-color: rgb(26, 26, 26);
+  border-top-color: rgb(26, 26, 26);
+  border-right-color: rgb(26, 26, 26);
+  border-bottom-color: rgb(26, 26, 26);
+  border-left-color: rgb(26, 26, 26);
+  outline-color: rgb(26, 26, 26);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.ourWebsiteOr {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.aoutiveIsNot {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.p44 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.br8 {
+  caret-color: rgb(115, 115, 115);
+  text-decoration-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+}
+
+.h48 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(26, 26, 26);
+  color: rgb(26, 26, 26);
+  font-family: Geist, "Geist Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 28px;
+  font-weight: 500;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.4em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.04em;
+  text-decoration-color: rgb(26, 26, 26);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(26, 26, 26);
+  -webkit-text-stroke-color: rgb(26, 26, 26);
+  border-top-color: rgb(26, 26, 26);
+  border-right-color: rgb(26, 26, 26);
+  border-bottom-color: rgb(26, 26, 26);
+  border-left-color: rgb(26, 26, 26);
+  outline-color: rgb(26, 26, 26);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.dependingOnYour {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.toMakePrivacy {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.p47 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.br9 {
+  caret-color: rgb(115, 115, 115);
+  text-decoration-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+}
+
+.h49 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(26, 26, 26);
+  color: rgb(26, 26, 26);
+  font-family: Geist, "Geist Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 28px;
+  font-weight: 500;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.4em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.04em;
+  text-decoration-color: rgb(26, 26, 26);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(26, 26, 26);
+  -webkit-text-stroke-color: rgb(26, 26, 26);
+  border-top-color: rgb(26, 26, 26);
+  border-right-color: rgb(26, 26, 26);
+  border-bottom-color: rgb(26, 26, 26);
+  border-left-color: rgb(26, 26, 26);
+  outline-color: rgb(26, 26, 26);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.ourServicesAre {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.p49 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.br10 {
+  caret-color: rgb(115, 115, 115);
+  text-decoration-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+}
+
+.h410 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(26, 26, 26);
+  color: rgb(26, 26, 26);
+  font-family: Geist, "Geist Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 28px;
+  font-weight: 500;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.4em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.04em;
+  text-decoration-color: rgb(26, 26, 26);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(26, 26, 26);
+  -webkit-text-stroke-color: rgb(26, 26, 26);
+  border-top-color: rgb(26, 26, 26);
+  border-right-color: rgb(26, 26, 26);
+  border-bottom-color: rgb(26, 26, 26);
+  border-left-color: rgb(26, 26, 26);
+  outline-color: rgb(26, 26, 26);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.weMayUpdate {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.whenWeMake {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.strong {
+  caret-color: rgb(115, 115, 115);
+  font-weight: 700;
+  text-decoration-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+}
+
+.p52 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.br11 {
+  caret-color: rgb(115, 115, 115);
+  text-decoration-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+}
+
+.h411 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(26, 26, 26);
+  color: rgb(26, 26, 26);
+  font-family: Geist, "Geist Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 28px;
+  font-weight: 500;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.4em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.04em;
+  text-decoration-color: rgb(26, 26, 26);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(26, 26, 26);
+  -webkit-text-stroke-color: rgb(26, 26, 26);
+  border-top-color: rgb(26, 26, 26);
+  border-right-color: rgb(26, 26, 26);
+  border-bottom-color: rgb(26, 26, 26);
+  border-left-color: rgb(26, 26, 26);
+  outline-color: rgb(26, 26, 26);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.ifYouHave {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.email {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: var(--framer-blockquote-paragraph-spacing, var(--framer-paragraph-spacing, 0));
+  --framer-paragraph-spacing: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(115, 115, 115);
+  color: rgb(115, 115, 115);
+  font-family: Inter, "Inter Placeholder", sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(--framer-blockquote-line-height, var(--framer-line-height, 1.2em));
+  --framer-line-height: 1.6em;
+  letter-spacing: var(--framer-blockquote-letter-spacing, var(--framer-letter-spacing, 0));
+  --framer-letter-spacing: -0.02em;
+  text-decoration-color: rgb(115, 115, 115);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.tanjimislam27GmailComLink {
+  padding: var(--framer-link-text-background-padding, initial);
+  border-radius: var(--framer-link-text-background-radius, initial);
+  caret-color: rgb(94, 94, 94);
+  color: rgb(94, 94, 94);
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  text-decoration-color: rgb(94, 94, 94);
+  text-underline-offset: var(
+    --framer-link-text-decoration-offset,
+    var(--framer-blockquote-text-decoration-offset, var(--framer-text-decoration-offset, initial))
+  );
+  -webkit-text-fill-color: rgb(94, 94, 94);
+  -webkit-text-stroke-color: rgb(94, 94, 94);
+  border-top-color: rgb(94, 94, 94);
+  border-right-color: rgb(94, 94, 94);
+  border-bottom-color: rgb(94, 94, 94);
+  border-left-color: rgb(94, 94, 94);
+  outline-color: rgb(94, 94, 94);
+  cursor: pointer;
+  text-decoration-thickness: var(
+    --framer-link-text-decoration-thickness,
+    var(
+      --framer-blockquote-text-decoration-thickness,
+      var(--framer-text-decoration-thickness, initial)
+    )
+  );
+}
+
+.tanjimislam27GmailComLink:hover {
+  caret-color: rgb(26, 26, 26);
+  color: rgb(26, 26, 26);
+  text-decoration-color: rgb(26, 26, 26);
+  -webkit-text-fill-color: rgb(26, 26, 26);
+  -webkit-text-stroke-color: rgb(26, 26, 26);
+  border-top-color: rgb(26, 26, 26);
+  border-right-color: rgb(26, 26, 26);
+  border-bottom-color: rgb(26, 26, 26);
+  border-left-color: rgb(26, 26, 26);
+  outline-color: rgb(26, 26, 26);
+}
+
+.strong2 {
+  caret-color: rgb(94, 94, 94);
+  font-weight: 700;
+  text-decoration-color: rgb(94, 94, 94);
+  -webkit-text-stroke-color: rgb(94, 94, 94);
+  border-top-color: rgb(94, 94, 94);
+  border-right-color: rgb(94, 94, 94);
+  border-bottom-color: rgb(94, 94, 94);
+  border-left-color: rgb(94, 94, 94);
+  outline-color: rgb(94, 94, 94);
+}
+
+.strong3 {
+  caret-color: rgb(115, 115, 115);
+  font-weight: 700;
+  text-decoration-color: rgb(115, 115, 115);
+  -webkit-text-stroke-color: rgb(115, 115, 115);
+  border-top-color: rgb(115, 115, 115);
+  border-right-color: rgb(115, 115, 115);
+  border-bottom-color: rgb(115, 115, 115);
+  border-left-color: rgb(115, 115, 115);
+  outline-color: rgb(115, 115, 115);
+}
+
+.div27 {
+  display: contents;
+  position: relative;
+}
+
+.div26 {
+  position: absolute;
+  top: -0.0248671%;
+  left: 0%;
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+}
+
+.cornner {
+  padding: 0px;
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  align-content: center;
+  place-content: center space-between;
+}
+
+.top2 {
+  padding: 0px;
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: min-content;
+  max-width: 1233px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  user-select: none;
+  -webkit-user-select: none;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: space-between;
+  align-items: center;
+  align-content: center;
+  place-content: center space-between;
+}
+
+.div16 {
+  position: relative;
+  width: 11px;
+  height: 11px;
+  user-select: none;
+  -webkit-user-select: none;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+}
+
+.div15 {
+  position: absolute;
+  top: -5px;
+  left: -5px;
+  width: 11px;
+  height: 11px;
+  user-select: none;
+  -webkit-user-select: none;
+  flex-shrink: 0;
+  image-rendering: pixelated;
+}
+
+.div14 {
+  width: 100%;
+  height: 100%;
+  aspect-ratio: inherit;
+  user-select: none;
+  -webkit-user-select: none;
+  image-rendering: pixelated;
+}
+
+.icon2 {
+  display: block;
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  user-select: none;
+  -webkit-user-select: none;
+  image-rendering: pixelated;
+}
+
+.div19 {
+  position: relative;
+  width: 11px;
+  height: 11px;
+  user-select: none;
+  -webkit-user-select: none;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+}
+
+.div18 {
+  position: absolute;
+  top: -5px;
+  left: 5px;
+  width: 11px;
+  height: 11px;
+  user-select: none;
+  -webkit-user-select: none;
+  flex-shrink: 0;
+  image-rendering: pixelated;
+}
+
+.div17 {
+  width: 100%;
+  height: 100%;
+  aspect-ratio: inherit;
+  user-select: none;
+  -webkit-user-select: none;
+  image-rendering: pixelated;
+}
+
+.icon22 {
+  display: block;
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  user-select: none;
+  -webkit-user-select: none;
+  image-rendering: pixelated;
+}
+
+.bottom2 {
+  padding: 0px;
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: min-content;
+  max-width: 1224px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  user-select: none;
+  -webkit-user-select: none;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: space-between;
+  align-items: center;
+  align-content: center;
+  place-content: center space-between;
+}
+
+.div22 {
+  position: relative;
+  width: 11px;
+  height: 11px;
+  user-select: none;
+  -webkit-user-select: none;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+}
+
+.div21 {
+  position: absolute;
+  top: 5px;
+  left: -5px;
+  width: 11px;
+  height: 11px;
+  user-select: none;
+  -webkit-user-select: none;
+  flex-shrink: 0;
+  image-rendering: pixelated;
+}
+
+.div20 {
+  width: 100%;
+  height: 100%;
+  aspect-ratio: inherit;
+  user-select: none;
+  -webkit-user-select: none;
+  image-rendering: pixelated;
+}
+
+.icon3 {
+  display: block;
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  user-select: none;
+  -webkit-user-select: none;
+  image-rendering: pixelated;
+}
+
+.div25 {
+  position: relative;
+  width: 11px;
+  height: 11px;
+  user-select: none;
+  -webkit-user-select: none;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+}
+
+.div24 {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  width: 11px;
+  height: 11px;
+  user-select: none;
+  -webkit-user-select: none;
+  flex-shrink: 0;
+  image-rendering: pixelated;
+}
+
+.div23 {
+  width: 100%;
+  height: 100%;
+  aspect-ratio: inherit;
+  user-select: none;
+  -webkit-user-select: none;
+  image-rendering: pixelated;
+}
+
+.icon4 {
+  display: block;
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  user-select: none;
+  -webkit-user-select: none;
+  image-rendering: pixelated;
+}
+
+@media (max-width: 1439px) {
+  .heroSection {
+    padding: 0px 28px;
+    padding-right: 28px;
+    padding-left: 28px;
+  }
+  .p1InformationWe2 {
+    padding: 80px 30px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+  .p1InformationWe3 {
+    gap: 48px;
+    row-gap: 48px;
+    column-gap: 48px;
+  }
+  .h1 {
+    --framer-font-size: 48px;
+    font-size: var(--framer-font-size, 48px);
+  }
+  .h4 {
+    --framer-font-size: 22px;
+    font-size: var(--framer-font-size, 22px);
+  }
+  .h42 {
+    --framer-font-size: 22px;
+    font-size: var(--framer-font-size, 22px);
+  }
+  .h43 {
+    --framer-font-size: 22px;
+    font-size: var(--framer-font-size, 22px);
+  }
+  .h44 {
+    --framer-font-size: 22px;
+    font-size: var(--framer-font-size, 22px);
+  }
+  .h45 {
+    --framer-font-size: 22px;
+    font-size: var(--framer-font-size, 22px);
+  }
+  .h46 {
+    --framer-font-size: 22px;
+    font-size: var(--framer-font-size, 22px);
+  }
+  .h47 {
+    --framer-font-size: 22px;
+    font-size: var(--framer-font-size, 22px);
+  }
+  .h48 {
+    --framer-font-size: 22px;
+    font-size: var(--framer-font-size, 22px);
+  }
+  .h49 {
+    --framer-font-size: 22px;
+    font-size: var(--framer-font-size, 22px);
+  }
+  .h410 {
+    --framer-font-size: 22px;
+    font-size: var(--framer-font-size, 22px);
+  }
+  .h411 {
+    --framer-font-size: 22px;
+    font-size: var(--framer-font-size, 22px);
+  }
+}
+
+@media (max-width: 809px) {
+  .heroSection {
+    padding: 0px 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+  .p1InformationWe2 {
+    padding: 60px 12px;
+    max-width: 580px;
+    padding-top: 60px;
+    padding-right: 12px;
+    padding-bottom: 60px;
+    padding-left: 12px;
+  }
+  .p1InformationWe3 {
+    max-width: 580px;
+    gap: 40px;
+    row-gap: 40px;
+    column-gap: 40px;
+  }
+  .h1 {
+    --framer-font-size: 30px;
+    --framer-letter-spacing: -0.07em;
+    font-size: var(--framer-font-size, 30px);
+    letter-spacing: var(--framer-letter-spacing, -0.07em);
+  }
+  .h4 {
+    --framer-font-size: 18px;
+    font-size: var(--framer-font-size, 18px);
+  }
+  .h42 {
+    --framer-font-size: 18px;
+    font-size: var(--framer-font-size, 18px);
+  }
+  .h43 {
+    --framer-font-size: 18px;
+    font-size: var(--framer-font-size, 18px);
+  }
+  .h44 {
+    --framer-font-size: 18px;
+    font-size: var(--framer-font-size, 18px);
+  }
+  .h45 {
+    --framer-font-size: 18px;
+    font-size: var(--framer-font-size, 18px);
+  }
+  .h46 {
+    --framer-font-size: 18px;
+    font-size: var(--framer-font-size, 18px);
+  }
+  .h47 {
+    --framer-font-size: 18px;
+    font-size: var(--framer-font-size, 18px);
+  }
+  .h48 {
+    --framer-font-size: 18px;
+    font-size: var(--framer-font-size, 18px);
+  }
+  .h49 {
+    --framer-font-size: 18px;
+    font-size: var(--framer-font-size, 18px);
+  }
+  .h410 {
+    --framer-font-size: 18px;
+    font-size: var(--framer-font-size, 18px);
+  }
+  .h411 {
+    --framer-font-size: 18px;
+    font-size: var(--framer-font-size, 18px);
+  }
+  .div26 {
+    top: -0.0194013%;
+  }
+}

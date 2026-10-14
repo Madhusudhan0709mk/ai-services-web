@@ -1,0 +1,1 @@
+export { LegalTermsConditions } from "./LegalTermsConditions";

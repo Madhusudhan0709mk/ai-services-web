@@ -1,0 +1,15 @@
+export { Home } from "./Home";
+export { UpTo } from "./UpTo";
+export { UnlimitedWorkflows } from "./UnlimitedWorkflows";
+export { UnlimitedTeamMembers } from "./UnlimitedTeamMembers";
+export { LogoNav } from "./LogoNav";
+export { HeroSection } from "./HeroSection";
+export { BrandSection } from "./BrandSection";
+export { WorkflowSection } from "./WorkflowSection";
+export { AutomationSection } from "./AutomationSection";
+export { UseCasesSection } from "./UseCasesSection";
+export { IntergationSection } from "./IntergationSection";
+export { ConnectSection } from "./ConnectSection";
+export { PricingSection } from "./PricingSection";
+export { NavMenu } from "./NavMenu";
+export { NavMenu2 } from "./NavMenu2";

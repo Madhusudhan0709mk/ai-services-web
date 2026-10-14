@@ -1,0 +1,1 @@
+export { IntergationSection } from "./IntergationSection";
